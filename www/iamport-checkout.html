@@ -21,10 +21,14 @@
 			    
 			    return null;
 			}
-
+			try{
 			IMP.init(getQueryVariable("user-code"));
+			}
+			catch(e){
+				console.log('error while imp init', e);
+			}
 		});
 	</script>
   </head>
-  <body></body>
+  <body>a</body>
 </html>
