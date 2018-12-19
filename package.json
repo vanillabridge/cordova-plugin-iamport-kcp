@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamport/cordova-plugin-iamport-kcp"
+    "url": "https://github.com/vanillabridge/cordova-plugin-iamport-kcp"
   },
   "keywords": [
     "payment",
@@ -30,7 +30,7 @@
   "author": "iamport",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamport/cordova-plugin-iamport-kcp/issues"
+    "url": "https://github.com/vanillabridge/cordova-plugin-iamport-kcp/issues"
   },
-  "homepage": "https://github.com/iamport/cordova-plugin-iamport-kcp#readme"
+  "homepage": "https://github.com/vanillabridge/cordova-plugin-iamport-kcp#readme"
 }
